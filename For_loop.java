@@ -1,7 +1,7 @@
 
 public class For_loop {
     public static void main(String[] args) {
-        for(int i=0;i<8;i++)
+        for(int i=0;i<9;i++)
         {
             System.out.println("the number is="+i);
         }
